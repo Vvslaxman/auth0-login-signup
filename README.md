@@ -1,1 +1,2 @@
-# Auth0-login-Signup with addon Continue with Google and LinkedIn 
+# Auth0-login-Signup 
+Addon Continue with Google and LinkedIn 
